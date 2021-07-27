@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 # Halo semua!
 
 Perkenalkan nama saya **Tri Prasetyo**\.  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/)\.  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto]
-(https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M)      
-Saya juga memiliki gelar [Google Associate Android Developer]
-(https://www.credential.net/h5deoi5h) sejak 2019\.  
+Saya seorang **Front End Developer** di [Dicoding](https://www.dicoding.com/)\.  
+Saya siswa pada materi Front End dengan dibekali [sertifikasi dari Dicoding]     
+Saya juga memiliki gelar [Master Informatika]
+(https://https://forlap.kemdikbud.go.id/dosen/detail/MjJEQTJFMEEtMkZFQS00OURDLThERTgtRERCMTk5RENBNUU5) sejak 2020\.  
 Jika kamu tertarik untuk berkenalan denganku. Silahkan ikuti akun [Linkedin]
 (https://www.linkedin.com/in/tri-prasetyo-704515116/) ku ya 
 
