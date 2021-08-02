@@ -21,7 +21,7 @@ Perkenalkan nama saya **Tri Prasetyo**\.
 Saya seorang **Front End Developer** di [Dicoding](https://www.dicoding.com/)\.  
 Saya siswa pada materi Front End dengan dibekali [sertifikasi dari Dicoding]     
 Saya juga memiliki gelar [Master Informatika]
-(https://https://forlap.kemdikbud.go.id/dosen/detail/MjJEQTJFMEEtMkZFQS00OURDLThERTgtRERCMTk5RENBNUU5) sejak 2020\.  
+(https://https://forlap.kemdikbud.go.id/dosen/detail/MjJEQTJFMEEtMkZFQS00OURDLThERTgtRERCMTk5RENBNUU5) sejak 2019\.  
 Jika kamu tertarik untuk berkenalan denganku. Silahkan ikuti akun [Linkedin]
 (https://www.linkedin.com/in/tri-prasetyo-704515116/) ku ya 
 
